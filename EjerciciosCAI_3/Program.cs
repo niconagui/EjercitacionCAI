@@ -1,4 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ejercicios CAI");
-
-
+Console.WriteLine("Hello, World!");
